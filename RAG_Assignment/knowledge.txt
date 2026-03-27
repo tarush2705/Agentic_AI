@@ -1,4 +1,0 @@
-Artificial Intelligence is the simulation of human intelligence in machines.
-Machine Learning is a subset of AI that learns from data.
-Deep Learning uses neural networks with many layers.
-Retrieval Augmented Generation combines search with LLMs to improve accuracy.
